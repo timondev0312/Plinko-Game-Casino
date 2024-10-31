@@ -1,4 +1,4 @@
 # Plinko-Game-Casino
 
 
-![Frontend Screenshot](PlinkoCasinoGame.png)
+![Frontend Cool](PlinkoCasinoGame.png)
